@@ -3,7 +3,7 @@ Designed and implemented a physical 3x3 Tic-Tac-Toe game, with the hardware cont
 
 Arduino & Python Tic-Tac-Toe
 
-새학기맞이주간 행사를 위해 제작된 3x3 하드웨어와 Python GUI를 연동한 틱택토(Tic-Tac-Toe) 게임입니다. 사용자가 직접 만든 3x3 버튼 매트릭스를 누르면 라즈베리파이 디스플레이에 실시간으로 표시되어, 누구나 쉽고 재미있게 즐길 수 있도록 제작되었습니다.
+새학기맞이주간 행사를 위해 제작된 3x3 하드웨어와 Python GUI를 연동한 틱택토(Tic-Tac-Toe) 게임입니다. 사용자가 직접 만든 3x3 버튼 매트릭스를 누르면 라즈베리파이 디스플레이에 실시간으로 표시됩니다.
 
 ## 🛠️ 시스템 구성 및 동작 원리
 
